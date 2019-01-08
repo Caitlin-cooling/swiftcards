@@ -5,6 +5,8 @@
 # SwiftCards
 Swiftcards is an iOS app that acts as a deck of cards allowing up to 2 people to play whatever game of cards they like!
 
+![alt text](image.png)
+
 ## Contributing
 * Run `gem install cocoapods` to install the dependency manager to your machine if it isn't already.
 * Run `pod install` to install dependencies.
