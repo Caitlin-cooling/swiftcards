@@ -30,3 +30,6 @@ Please note that the app has been built using Swift version 4 due to device comp
 
 ## Learning Documentation
 Learning documentation can be found [here](https://github.com/IrinaSTA/swiftcards/wiki). This is a collection of notes that have been taken by the team throughout the duration of the project and may help with any questions that you have.
+
+## Known Issues
+Note that this app is not deployed as a paid Apple Developer account is required to do so.
